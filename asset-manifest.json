@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/project6/static/css/main.2aaa01aa.css",
+    "main.js": "/project6/static/js/main.f8fa0302.js",
+    "static/media/React_APP.png": "/project6/static/media/React_APP.e32c328a9e65b33be6c2.png",
+    "static/media/Landing.png": "/project6/static/media/Landing.064f1eabe7a4f7ec5693.png",
+    "static/media/API.png": "/project6/static/media/API.ac7adc9d5722ea2b9812.png",
+    "static/media/CRUD.png": "/project6/static/media/CRUD.1f7b1035869f5b66792b.png",
+    "static/media/gon-03.png": "/project6/static/media/gon-03.cd522acdddb8c029e87d.png",
+    "static/media/gon-01.png": "/project6/static/media/gon-01.3f1d09ce15ae91924662.png",
+    "index.html": "/project6/index.html",
+    "main.2aaa01aa.css.map": "/project6/static/css/main.2aaa01aa.css.map",
+    "main.f8fa0302.js.map": "/project6/static/js/main.f8fa0302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aaa01aa.css",
+    "static/js/main.f8fa0302.js"
+  ]
+}
