@@ -1,3 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +20,84 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.secondary-section {
+  background: linear-gradient(to right, rgb(255, 255, 255), rgb(145, 130, 245));
+}
+
+section h2 {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.abt-me {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.gon {
+  width: 35vh;
+}
+
+.gonB {
+  width: 5vh;
+}
+
+.gonme {
+  width: 30vh;
+}
+
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill {
+  padding: 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  color: #050d18;
+}
+
+.skills .progress .skill .val {
+  float: right;
+  font-style: normal;
+}
+
+.skills .progress-bar-wrap {
+  background: linear-gradient(to right, rgb(255, 255, 255), rgb(238, 236, 252));
+  height: 10px;
+}
+
+.skills .progress-bar {
+  width: 1px;
+  height: 10px;
+  transition: 0.9s;
+  background-color: rgb(20, 157, 221, 0.5);
+}
+
+.gitcont {
+  font-size: 5vh;
+}
+
+.mailcont {
+  font-size: 5vh;
+}
+
+.goncont {
+  width: 30vh;
 }
