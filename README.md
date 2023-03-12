@@ -1,6 +1,7 @@
 # Portfolio
 
-<img src="./src/img/gon-03.png" width="100">
+![Portfolio](./src/img/portfolio/Portfolio.png)
+
 
 ## Proyecto 1
 Landing: Primer proyecto, acercamiento con HTML, CSS y Bootstrap
